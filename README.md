@@ -1,7 +1,7 @@
 # ChainOfThought
 
 This project implements advanced Chain of Thought (CoT) approaches for solving complex reasoning problems using various LLM providers (OpenAI and Gemini). Chain of Thought is a prompting technique that encourages language models to break down their reasoning into explicit steps before providing a final answer, significantly enhancing accuracy and transparency.
-
+ 
 ## Concept
 
 This project implements both fixed and dynamic chain-of-thought prompting to improve accuracy on complex reasoning tasks. Rather than building a new model, it uses prompt engineering techniques to guide models through structured reasoning processes.
